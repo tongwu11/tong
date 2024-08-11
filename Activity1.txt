@@ -1,0 +1,3 @@
+Hi I am Elaine. 
+......................
+I am excited to learn git and github today!
